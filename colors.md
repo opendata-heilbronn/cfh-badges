@@ -1,20 +1,20 @@
 
-#f44336
-#e91e63
-#9c27b0
-#673ab7
-#3f51b5
-#2196f3
-#03a9f4
-#00bcd4
-#009688
-#4caf50
-#8bc34a
-#cddc39
-#ffeb3b
-#ffc107
-#ff9800
-#ff5722
-#795548
-#9e9e9e
-#607d8b
+<span style="color: #f44336">#f44336</span> <br />
+<span style="color: #e91e63">#e91e63</span> <br />
+<span style="color: #9c27b0">#9c27b0</span> <br />
+<span style="color: #673ab7">#673ab7</span> <br />
+<span style="color: #3f51b5">#3f51b5</span> <br />
+<span style="color: #2196f3">#2196f3</span> <br />
+<span style="color: #03a9f4">#03a9f4</span> <br />
+<span style="color: #00bcd4">#00bcd4</span> <br />
+<span style="color: #009688">#009688</span> <br />
+<span style="color: #4caf50">#4caf50</span> <br />
+<span style="color: #8bc34a">#8bc34a</span> <br />
+<span style="color: #cddc39">#cddc39</span> <br />
+<span style="color: #ffeb3b">#ffeb3b</span> <br />
+<span style="color: #ffc107">#ffc107</span> <br />
+<span style="color: #ff9800">#ff9800</span> <br />
+<span style="color: #ff5722">#ff5722</span> <br />
+<span style="color: #795548">#795548</span> <br />
+<span style="color: #9e9e9e">#9e9e9e</span> <br />
+<span style="color: #607d8b">#607d8b</span> <br />
