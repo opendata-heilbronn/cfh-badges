@@ -1,7 +1,7 @@
 # Was sind Badges
 
-Bei den Badges handelt es sich im Sticker in der klassischen Hexagon-Form. Sie werden zu bestimmten Anlässen an Teilnehmer*innen vergeben.
-Ziel der Badges ist es a) KnowHow transparent auszuweisen und b) Teilnehmer*innen durch positives Feedback Anreize 
+Bei den Badges handelt es sich im Sticker in der klassischen Hexagon-Form. Sie werden zu bestimmten Anlässen an Teilnehmer\*innen vergeben.
+Ziel der Badges ist es a) KnowHow transparent auszuweisen und b) Teilnehmer\*innen durch positives Feedback Anreize 
 zu geben sich mehr einzubringen und gewisse Standards zu verinnerlichen.
 
 ## Badges für übernommene Aufgaben
