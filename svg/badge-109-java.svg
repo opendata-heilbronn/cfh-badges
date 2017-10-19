@@ -14,7 +14,7 @@
    viewBox="0 0 155.55118 179.99999"
    id="svg4532"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="badge-109-java.svg">
   <defs
      id="defs4534" />
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="123.5466"
+     inkscape:cx="96.7966"
      inkscape:cy="93.241698"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1038"
-     inkscape:window-x="3840"
-     inkscape:window-y="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="cm" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,7 +58,7 @@
        d="m 77.308165,876.88011 c 0,0 -74.6755893,42.9474 -74.8763289,42.9474 0.2007396,0 1.0036984,83.88799 0.8029587,83.88799 0.2007397,0 74.8763392,44.9543 74.6755892,44.9543 0.20075,0 74.073376,-41.7433 73.872636,-41.7433 0.20074,0 1.40519,-86.69761 1.20445,-86.69761 0.20074,0 -75.679305,-43.34878 -75.679305,-43.34878 z"
        id="svg_2-25"
        inkscape:connector-curvature="0"
-       style="fill:#00bcd4;stroke:none;stroke-width:0.60249537;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:0.60249537;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 81.462613,991.89542 c 0,0 -41.796689,6.07474 -61.99135,-1.57093 -6.02915,-2.28262 -10.4273115,1.39495 -15.164434,-0.41886 -1.439885,24.37497 -0.871302,13.80987 -1.072041,13.80987 0.200739,0 74.876341,44.9544 74.675592,44.9544 0.200749,0 74.07337,-41.7433 73.87264,-41.7433 0.20073,0 -0.90492,-11.46334 -0.90492,-11.46334 0,0 -8.86622,-1.87633 -16.29778,-0.85636 -20.00093,2.74509 -53.117707,-2.71148 -53.117707,-2.71148 z"
        id="svg_2-25-2"
@@ -76,13 +76,13 @@
          id="tspan4516"
          x="-414.40741"
          y="944.46918"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97508812px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;fill:#00bcd4;fill-opacity:1;stroke-width:1.50087404;stroke-miterlimit:4;stroke-dasharray:none">cf-hn.de/bd110</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97508812px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;fill:#00bcd4;fill-opacity:1;stroke-width:1.50087404;stroke-miterlimit:4;stroke-dasharray:none">cfhn.it/bd109</tspan></text>
     <g
        id="svgg-2"
-       style="stroke-width:1.50087416;stroke-miterlimit:4;stroke-dasharray:none;fill:#000000;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.50087416;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0.4014817,0,0,0.40137756,-1.3666331,865.63851)">
       <path
-         style="fill:#000000;fill-rule:evenodd;stroke-width:1.50087416;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.50087416;stroke-miterlimit:4;stroke-dasharray:none"
          d="M 194.89844,0.58398438 1.2734375,111.99609 1.5195312,335.96875 c 192.9453088,111.12891 0,0 192.9453088,111.12891 193.75391,-111.12891 0,0 193.75391,-111.12891 l 0.24609,-223.97266 z m -0.0293,18.60351562 177.58594,102.17188 0.24804,206.02539 c -177.83984,102.67187 0,0 -177.83984,102.67187 L 17.033203,327.38477 l 0.25,-206.0293 z"
          transform="translate(2.1305361,18.109557)"
          id="path5-11"
