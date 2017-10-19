@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1482318"
-     inkscape:cx="-5.0922772"
-     inkscape:cy="131.95001"
+     inkscape:zoom="3.0380585"
+     inkscape:cx="33.440368"
+     inkscape:cy="100.66519"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,7 +78,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1.50087404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1.50087404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        x="-414.40741"
        y="944.46918"
        id="text4514"
@@ -87,6 +87,6 @@
          id="tspan4516"
          x="-414.40741"
          y="944.46918"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97508812px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;fill:#2196f3;fill-opacity:1;stroke-width:1.50087404;stroke-miterlimit:4;stroke-dasharray:none">cfhn.it/bd101</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.97508812px;line-height:1.25;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace Bold';fill:#2196f3;fill-opacity:1;stroke-width:1.50087404;stroke-miterlimit:4;stroke-dasharray:none;">cfhn.it/bd101</tspan></text>
   </g>
 </svg>
