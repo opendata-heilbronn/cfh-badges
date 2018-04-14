@@ -10,6 +10,7 @@ ID  | Name                          | Beschreibung
 001 | Projektleitung                | Dieser Badge wird für eine Projektleitung verliehen.
 002 | Speaker                       | Dieser Badge wird an Personen verliehen, die einen Talk bei einem Treffen gehalten haben.
 003 | Unicorn                       | Badge, der als Joker verliehen werden kann, wenn jemand immer wieder aushilft
+004 | Presse                        | Badge, der an Personen verliehen werden kann, die regelmäßig Bilder und Texte zu Code For Heilbronn veröffenltichen
 
 ## Badges für Skills
 ID  | Motto                         | Kategorie   | Beschreibung
@@ -35,7 +36,7 @@ ID  | Motto                         | Beschreibung
 203 | not my task, done anyway      | Für Personen, die auch mal Aufgaben übernehmen ohne explizit dazu aufgefordert worden zu sein
 
 
-
+![#b01300](https://placehold.it/15/b01300/000000?text=+)    #b01300
 
 ![#f44336](https://placehold.it/15/f44336/000000?text=+)	#f44336
 
