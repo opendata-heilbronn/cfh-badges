@@ -12,6 +12,7 @@ ID  | Name                          | Beschreibung
 003 | Unicorn                       | Badge, der als Joker verliehen werden kann, wenn jemand immer wieder aushilft
 004 | Presse                        | Badge, der an Personen verliehen werden kann, die regelmäßig Bilder und Texte zu Code For Heilbronn veröffenltichen
 
+
 ## Badges für Skills
 ID  | Motto                         | Kategorie   | Beschreibung
 ----|-------------------------------|-------------|----------------------------------------------------------------------------------
@@ -26,6 +27,7 @@ ID  | Motto                         | Kategorie   | Beschreibung
 109 | lost as code                  | Java        | Für ein abgeschlossenes Java-Projekt
 110 | Im a captain on the C         | C / C++     | Für ein abgeschlossenes C/C++-Projekt
 111 | I dont need glasses, I C#     | C#          | Für ein abgeschlossenes C#-Projekt
+112 | collect the data              | LoRa        | Für ein abgeschlossenes LoRa-Projekt
 
  
 ## Meta / Softskills
