@@ -11,6 +11,7 @@ ID  | Name                          | Beschreibung
 002 | Speaker                       | Dieser Badge wird an Personen verliehen, die einen Talk bei einem Treffen gehalten haben.
 003 | Unicorn                       | Badge, der als Joker verliehen werden kann, wenn jemand immer wieder aushilft
 004 | Presse                        | Badge, der an Personen verliehen werden kann, die regelmäßig Bilder und Texte zu Code For Heilbronn veröffenltichen
+xxx | Workshop                      | Badge, der an Personen verliehen werden kann, die einen Workshop gehalten haben
 
 
 ## Badges für Skills
@@ -28,6 +29,13 @@ ID  | Motto                         | Kategorie   | Beschreibung
 110 | Im a captain on the C         | C / C++     | Für ein abgeschlossenes C/C++-Projekt
 111 | I dont need glasses, I C#     | C#          | Für ein abgeschlossenes C#-Projekt
 112 | collect the data              | LoRa        | Für ein abgeschlossenes LoRa-Projekt
+xxx | Go for it                     | GoLang      | Für ein abgeschlossenes GO Projekt
+xxx | Whats cookin?                 | Kochen      | Für kochen auf einer CFHN Veranstaltung
+xxx | Into the spider verse         | Website     | Etwas an der Code for Heilbronn Website geändert
+xxx | Play the organ                | Eventorga   | Sei Teil der Main-Orga eines CFHN Event
+xxx | Hack My Ride                  | E-Vehikel   | Ein E-Vehikel bauen
+xxx | Been there, done that         | CCC Event   | Ein Chaos Event besucht
+xxx | Just because                  | einfach so  | Einen Sticker den man halt einfach so bekommen kann :)
 
  
 ## Meta / Softskills
@@ -38,7 +46,7 @@ ID  | Motto                         | Beschreibung
 203 | not my task, done anyway      | Für Personen, die auch mal Aufgaben übernehmen ohne explizit dazu aufgefordert worden zu sein
 
 
-![#b01300](https://placehold.it/15/b01300/000000?text=+)    #b01300
+![#b01300](https://placehold.it/15/b01300/000000?text=+) #b01300
 
 ![#f44336](https://placehold.it/15/f44336/000000?text=+)	#f44336
 
