@@ -29,7 +29,7 @@ ID  | Motto                         | Kategorie   | Beschreibung
 110 | Im a captain on the C         | C / C++     | Für ein abgeschlossenes C/C++-Projekt
 111 | I dont need glasses, I C#     | C#          | Für ein abgeschlossenes C#-Projekt
 112 | collect the data              | LoRa        | Für ein abgeschlossenes LoRa-Projekt
-xxx | Go for it                     | GoLang      | Für ein abgeschlossenes GO Projekt
+113 | Go for it                     | GoLang      | Für ein abgeschlossenes GO Projekt - Junior Level
 xxx | Whats cookin?                 | Kochen      | Für kochen auf einer CFHN Veranstaltung
 xxx | Into the spider verse         | Website     | Etwas an der Code for Heilbronn Website geändert
 xxx | Play the organ                | Eventorga   | Sei Teil der Main-Orga eines CFHN Event
